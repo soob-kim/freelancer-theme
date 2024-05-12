@@ -61,6 +61,7 @@ defaults:
       type: "posts"
     values:
       permalink: ""
+      social-share: true
 
 # social share
 share-links-active:
