@@ -7,11 +7,6 @@ keywords: "결혼합니다 대박대박"
 skills: "8월 31일 11시 우리집"
 meta_author: LastName FirstName
 
-# Google webmaster tools
-google_verify:
-
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
 
 # Contact form:
 # - static : pass through formspree.io to validate email sending
@@ -19,9 +14,6 @@ bing_verify:
 # - comment the line below if you want to stick with the default PHP contact form
 # contact: static
 
-# If you use disqus you need disqus shortname
-# https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -69,3 +61,9 @@ defaults:
       type: "posts"
     values:
       permalink: ""
+
+# social share
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
