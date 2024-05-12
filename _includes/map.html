@@ -7,30 +7,24 @@
         <hr class="star-primary">
       </div>
     </div>
-    <div class="row">
-      <!--
-      	* 카카오맵 - 약도서비스
-      	* 한 페이지 내에 약도를 2개 이상 넣을 경우에는
-      	* 약도의 수 만큼 소스를 새로 생성, 삽입해야 합니다.
-      -->
-      <!-- 1. 약도 노드 -->
-      <div id="daumRoughmapContainer1715545586258" class="root_daum_roughmap root_daum_roughmap_landing"></div>
-      
-      <!-- 2. 설치 스크립트 -->
-      <script charset="UTF-8" class="daum_roughmap_loader_script" src="https://ssl.daumcdn.net/dmaps/map_js_init/roughmapLoader.js"></script>
-      
-      <!-- 3. 실행 스크립트 -->
-      <script charset="UTF-8">
-      	new daum.roughmap.Lander({
-      		"timestamp" : "1715545586258",
-      		"key" : "2jbci",
-      		"mapWidth" : "360",
-      		"mapHeight" : "240"
-      	}).render();
-      </script>
-    </div>
+    <center>
+      <div class="row">
+        <div id="daumRoughmapContainer1715545586258" class="root_daum_roughmap root_daum_roughmap_landing"></div>
+        <script charset="UTF-8" class="daum_roughmap_loader_script" src="https://ssl.daumcdn.net/dmaps/map_js_init/roughmapLoader.js"></script>
+        <script charset="UTF-8">
+        	new daum.roughmap.Lander({
+        		"timestamp" : "1715545586258",
+        		"key" : "2jbci",
+        		"mapWidth" : "360",
+        		"mapHeight" : "240"
+        	}).render();
+        </script>
+      </div>
+    </center>
     <div class="row">
       <div class="col-lg-4 col-lg-offset-2">
+        <a href="https://naver.me/xDsj83gJ"> 네이버 지도에서 보기 </a>
+        <a href="https://place.map.kakao.com/8634826"> 카카오 지도에서 보기 </a>
         <p>주소주소 지하철 / 버스 / 자가용</p>
       </div>
       <div class="col-lg-4">
