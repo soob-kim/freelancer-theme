@@ -1,11 +1,11 @@
 # Site settings
-title: 수빈 & 원준 결혼합니다
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "수빈 & 원준 결혼합니다."
-keywords: "결혼합니다 대박대박"
-skills: "8월 31일 11시 우리집"
-meta_author: LastName FirstName
+title: 수빈 ❤️ 원준 결혼합니다
+email: soob.kim00@gmail.com
+#url: https://github.com/jeromelachaud/freelancer-theme
+description: "수빈 ❤️ 원준 결혼합니다"
+#keywords: "결혼합니다 대박대박"
+skills: "2024년 8월 31일 오전 11시, @서울대학교 연구공원 웨딩홀"
+#meta_author: LastName FirstName
 
 
 # Contact form:
@@ -43,12 +43,12 @@ social:
     url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+# address:
+#   - line: 3481 Melrose Place
+#   - line: Beverly Hills, CA 90210
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+# credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
@@ -64,7 +64,7 @@ defaults:
       social-share: true
 
 # social share
-share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+# share-links-active:
+#   twitter: true
+#   facebook: true
+#   linkedin: true
